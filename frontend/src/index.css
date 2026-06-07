@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f4f7fc;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  width: 100%;
+}
